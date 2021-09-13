@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj": {
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
