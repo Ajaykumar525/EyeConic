@@ -36,7 +36,6 @@
           "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.9",
           "Microsoft.EntityFrameworkCore.Design": "5.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.9",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -1385,7 +1384,12 @@
       },
       "Infrastructure/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "Core": "1.0.0"
+=======
+          "Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
+>>>>>>> 21952c824b246f4aa869848d63dc06266f3cb96a
         },
         "runtime": {
           "Infrastructure.dll": {}

@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace API.Data.Migrations
+namespace Infrastructure.Data.Migrations
 {
-    public partial class InitialCreate3 : Migration
+    public partial class InitialAafiya : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
