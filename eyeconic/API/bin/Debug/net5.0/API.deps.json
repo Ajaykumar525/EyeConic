@@ -1384,12 +1384,8 @@
       },
       "Infrastructure/1.0.0": {
         "dependencies": {
-<<<<<<< HEAD
-          "Core": "1.0.0"
-=======
           "Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
->>>>>>> 21952c824b246f4aa869848d63dc06266f3cb96a
         },
         "runtime": {
           "Infrastructure.dll": {}
