@@ -7,12 +7,20 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Data
 {
+    //we use DbContext methods to query our database
     public class StoreContext : DbContext
     {
+        //this will allow to use context
         public StoreContext(DbContextOptions<StoreContext> options) : base(options)
         {
         }
-
+        //properties
+        //Products is name of the table when we generate database
+        //entity is product
         public DbSet<Product> Products { get; set; }
+
+        public DbSet<ProductBrand> ProductBrands { get; set; }
+
+        public DbSet<ProductType> ProductTypes { get; set; }
     }
 }

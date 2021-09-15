@@ -5,9 +5,24 @@ using System.Threading.Tasks;
 
 namespace Core.Entities
 {
-    public class Product
+    //deriving from base entity
+    public class Product : BaseEntity
     {
-        public int Id { get; set; }
+        //some properties
         public string Name { get; set; }
+
+        public string Description { get; set; }
+
+        public decimal Price { get; set; }
+
+        public string PictureUrl { get; set; }
+
+        public ProductType productType { get; set; }
+
+        public int ProductTypeId { get; set; }
+
+        public ProductBrand ProductBrand { get; set; }
+
+        public int ProductBrandId { get; set; }
     }
 }
