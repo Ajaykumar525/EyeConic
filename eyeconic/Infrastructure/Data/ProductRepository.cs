@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.Data
 {
+    //making use of IProductRepository
     public class ProductRepository : IProductRepository
     {
         private readonly StoreContext _context;
@@ -18,6 +19,7 @@ namespace Infrastructure.Data
             _context = context;
         }
 
+        //return and await
         public async Task<IReadOnlyList<Product>> GetProductAsync()
         {
             return await _context.Products.ToListAsync();

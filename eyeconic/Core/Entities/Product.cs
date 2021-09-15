@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 
 namespace Core.Entities
 {
+    //deriving from base entity
     public class Product : BaseEntity
     {
+        //some properties
         public string Name { get; set; }
 
         public string Description { get; set; }
