@@ -31,7 +31,10 @@ namespace API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //how long we need it for->addscoped is used because it's alive for the lifetime of the request
+            //creates when http request comes, when request is finished it disposes controller and repo
             services.AddScoped<IProductRepository, ProductRepository>();
+            //in order to add controllers to the end point, this gets added as a service
             services.AddControllers();
             services.AddDbContextPool<StoreContext>(x => 
                 x.UseSqlServer(_config.GetConnectionString("DefaultConnection")));
@@ -57,6 +60,7 @@ namespace API
 
             app.UseAuthorization();
 
+            //for controllers to know which endpoints are available so that they can be routed to
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
