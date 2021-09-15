@@ -254,3 +254,7 @@ C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\obj\Debug\net5.0\API.dll
 C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\obj\Debug\net5.0\API.pdb
 C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Core.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Core.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Nihal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
