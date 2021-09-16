@@ -34,6 +34,7 @@ namespace API
             //how long we need it for->addscoped is used because it's alive for the lifetime of the request
             //creates when http request comes, when request is finished it disposes controller and repo
             services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped(typeof(IGenericRepository<>), (typeof(GenericRepository<>)));
             //in order to add controllers to the end point, this gets added as a service
             services.AddControllers();
             services.AddDbContextPool<StoreContext>(x => 
@@ -66,5 +67,9 @@ namespace API
                 endpoints.MapControllers();
             });
         }
+    }
+
+    internal class GenericRepository
+    {
     }
 }

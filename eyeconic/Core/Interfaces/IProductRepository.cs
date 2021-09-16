@@ -16,5 +16,9 @@ namespace Core.Interfaces
         //product type object is returned
         //IReadOnly gives read only access
         Task<IReadOnlyList<Product>> GetProductAsync();
+
+        Task<IReadOnlyList<ProductBrand>> GetProductBrandsAsync();
+
+        Task<IReadOnlyList<ProductType>> GetProductTypesAsync();
     }
 }
