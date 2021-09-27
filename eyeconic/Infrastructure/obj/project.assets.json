@@ -5717,19 +5717,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nihal\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Nihal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5743,8 +5743,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj"
+            "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj"
             }
           }
         }
@@ -5779,7 +5779,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
