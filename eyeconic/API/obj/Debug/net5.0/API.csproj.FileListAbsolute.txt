@@ -260,5 +260,10 @@ C:\Users\d\Documents\GitHub\EyeConic\eyeconic\API\obj\Debug\net5.0\API.pdb
 C:\Users\d\Documents\GitHub\EyeConic\eyeconic\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\d\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\d\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+<<<<<<< HEAD
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+=======
+C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+>>>>>>> 710c5f211aa594792281623ddf711f40ea88bd0f
