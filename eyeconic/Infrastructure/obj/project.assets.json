@@ -5717,19 +5717,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\kenus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5743,8 +5743,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj"
+            "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj"
             }
           }
         }

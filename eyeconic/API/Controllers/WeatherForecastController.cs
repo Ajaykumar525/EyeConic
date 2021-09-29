@@ -7,10 +7,9 @@ using System.Threading.Tasks;
 
 namespace API.Controllers
 {
-    //gives some features and abilities related to being API controller
-    [ApiController] 
-    //this gives client to send request to the controller and it's going to hit end point of controller
-    [Route("[controller]")] 
+    [ApiController]
+    [Route("[controller]")]
+    [ApiExplorerSettings(IgnoreApi = true)]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
