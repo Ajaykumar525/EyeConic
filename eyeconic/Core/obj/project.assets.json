@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kenus\\.nuget\\packages\\": {}
+    "C:\\Users\\d\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\obj\\",
+      "projectPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
