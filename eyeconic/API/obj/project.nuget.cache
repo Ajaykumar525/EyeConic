@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PfLj72AH359uEkgvstfMXu+DKehqoxOvSmZUqpRzmLSXRQXNcSuFNeULW9h3uiIz/w8dELQWf8OTOlA/BrglJw==",
+  "dgSpecHash": "vc+OcwtzCcZK8rUvszVU/gxH6BB0im2+2+PXmIeZOUpr/boLF75SeYnaYXRj6S2tKl+Gyi0yeOzKaIc03FjGfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kenus\\Downloads\\eyeconic\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kenus\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\kenus\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

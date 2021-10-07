@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj": {}
+    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj": {
+    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\obj\\",
+        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",

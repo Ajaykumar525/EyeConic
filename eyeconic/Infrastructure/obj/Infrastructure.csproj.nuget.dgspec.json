@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj": {
+    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\obj\\",
+        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kenus\\Downloads\\eyeconic\\Core\\Core.csproj"
+              "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj"
               }
             }
           }
