@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+    "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\obj\\",
+        "projectPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,17 +58,17 @@
         }
       }
     },
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\d\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj"
+              "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\d\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj"
               }
             }
           }
