@@ -8,14 +8,17 @@ import { ServerErrorComponent } from './server-error/server-error.component';
 import {ToastrModule} from 'ngx-toastr';
 import {BreadcrumbModule} from 'xng-breadcrumb';
 import { SectionHeaderComponent } from './section-header/section-header.component';
-
-
+import {MatToolbarModule} from '@angular/material/toolbar';
+import { MatButtonModule, MatIconModule} from '@angular/material';
 
 @NgModule({
   declarations: [NavBarComponent, TestErrorComponent, NotFoundComponent, ServerErrorComponent, SectionHeaderComponent],
   imports: [
     CommonModule,
     RouterModule,
+    MatToolbarModule,
+    MatIconModule,
+    MatButtonModule,
     BreadcrumbModule,
     ToastrModule.forRoot({
       positionClass: 'toast-bottom-right',

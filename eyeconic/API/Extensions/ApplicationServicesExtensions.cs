@@ -17,7 +17,7 @@ namespace API.Extensions
             //how long we need it for->addscoped is used because it's alive for the lifetime of the request
             //creates when http request comes, when request is finished it disposes controller and repo
             services.AddScoped<IProductRepository, ProductRepository>();
-
+            services.AddScoped<IBasketRepository, BasketRepository>();
             services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.InvalidModelStateResponseFactory = actionContext =>

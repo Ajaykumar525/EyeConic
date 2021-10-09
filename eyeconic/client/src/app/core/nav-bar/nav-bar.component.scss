@@ -1,14 +1,14 @@
 .cart-no {
-    position: absolute;
-    min-height: 25px;
-    min-width: 25px;
-    border-radius: 50%;
-    font-size: 1em;
-    background: blue;
-    color: white;
-    text-align: center;
-    top: -12px;
-    right: 32px;
+  position: absolute;
+  min-height: 25px;
+  min-width: 25px;
+  border-radius: 50%;
+  font-size: 1em;
+  background: blue;
+  color: white;
+  text-align: center;
+  top: -10px;
+  right: 40px;
 }
 
 a {
@@ -26,4 +26,51 @@ a {
     &:focus {
         outline: none;
     }
+}
+.icon1{
+  color: brown;
+  font-size:36px;
+   height:36px;
+}
+.spacer {
+  flex:1 1 auto;
+}
+.btn1{
+  font-size: 20px;
+  position:relative;
+  left: 275px;
+}
+
+.btn2{
+  font-size: 20px;
+  position:relative;
+  left: 375px;
+}
+
+.btn3{
+  font-size: 20px;
+  position:relative;
+  left: 475px;
+}
+
+.btn4 {
+  position:absolute;
+  right: 150px;
+}
+
+.btn5 {
+  position:absolute;
+  right: 100px;
+}
+
+
+.btn6 {
+  position:absolute;
+  right:0px;
+}
+
+img {
+  object-fit: cover;
+  height: 200px;
+  width: 200px;
 }

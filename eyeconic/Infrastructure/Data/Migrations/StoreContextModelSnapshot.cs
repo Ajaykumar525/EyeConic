@@ -95,7 +95,7 @@ namespace Infrastructure.Data.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Core.Entities.ProductType", "productType")
+                    b.HasOne("Core.Entities.ProductType", "ProductType")
                         .WithMany()
                         .HasForeignKey("ProductTypeId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -103,7 +103,7 @@ namespace Infrastructure.Data.Migrations
 
                     b.Navigation("ProductBrand");
 
-                    b.Navigation("productType");
+                    b.Navigation("ProductType");
                 });
 #pragma warning restore 612, 618
         }
