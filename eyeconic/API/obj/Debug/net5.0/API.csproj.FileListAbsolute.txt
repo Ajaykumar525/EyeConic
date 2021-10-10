@@ -262,3 +262,7 @@ C:\Users\d\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.dl
 C:\Users\d\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\kenus\OneDrive\Desktop\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\kenus\OneDrive\Desktop\EyeConic\eyeconic\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kenus\OneDrive\Desktop\EyeConic\eyeconic\API\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\kenus\OneDrive\Desktop\EyeConic\eyeconic\API\bin\Debug\net5.0\StackExchange.Redis.dll
+C:\Users\kenus\OneDrive\Desktop\EyeConic\eyeconic\API\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kenus\OneDrive\Desktop\EyeConic\eyeconic\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

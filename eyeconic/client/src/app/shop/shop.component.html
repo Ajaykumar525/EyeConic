@@ -4,27 +4,36 @@
         <section class="col-3">
             <ng-container *ngIf="types && brands">
             <h5 class="text-warning ml-3 mt-4 mb-3">Sort</h5>
-            <select class="custom-select mb-4" (change)="onSortSelected($event.target.value)">
-                <option *ngFor="let sort of sortOptions" [value]="sort.value">
+            <mat-form-field appearance="fill">
+              <mat-label>Select an option</mat-label>
+            <mat-select class= "custom_select mb-4" (change)="onSortSelected($event.target.value)">
+                <mat-option *ngFor="let sort of sortOptions" [value]="sort.value">
                     {{sort.name}}
-                </option>
-            </select>
+                </mat-option>
+            </mat-select>
+          </mat-form-field>
 
             <h5 class="text-warning ml-3">Brands</h5>
-            <ul class="list-group my-3">
-                <li class="list-group-item" *ngFor="let brand of brands"
+            <mat-form-field appearance="fill">
+              <mat-label>Select a brand</mat-label>
+            <mat-select class="list-group my-3">
+                <mat-option class= "mb-4" *ngFor="let brand of brands"
                     [class.active]="brand.id === this.shopParams.brandId" [value]="brand.id"
                     (click)="onBrandSelected(brand.id)">
                     {{brand.name}}
-                </li>
-            </ul>
+            </mat-option>
+            </mat-select>
+          </mat-form-field>
             <h5 class="text-warning ml-3">Types</h5>
-            <ul class="list-group my-3">
-                <li class="list-group-item" *ngFor="let type of types" [class.active]="type.id === this.shopParams.typeId"
+            <mat-form-field appearance="fill">
+              <mat-label>Select type of product</mat-label>
+            <mat-select class="list-group my-3">
+                <mat-option class="list-group-item" *ngFor="let type of types" [class.active]="type.id === this.shopParams.typeId"
                     [value]="type.id" (click)="onTypeSelected(type.id)">
                     {{type.name}}
-                </li>
-            </ul>
+                </mat-option>
+            </mat-select>
+          </mat-form-field>
         </ng-container>
         </section>
 
@@ -39,9 +48,9 @@
                     >
 
                 <div class="form-inline" *ngIf="products">
-                    <input (keyup.enter)="onSearch()" class="form-control mr-2" #search style="width: 300px" placeholder="Search" type="text">
-                    <button (click)="onSearch()" class="btn btn-outline-primary my-2">Search</button>
-                    <button (click)="onReset()" class="btn btn-outline-success ml-2 my-2">Reset</button>
+                    <input mat-input (keyup.enter)="onSearch()" class="form-control mr-2" #search style="width: 300px" placeholder="Search" type="text">
+                    <button mat-stroked-button (click)="onSearch()" class="btn btn-outline-primary my-2">Search</button>
+                    <button mat-stroked-button (click)="onReset()" class="btn btn-outline-success ml-2 my-2">Reset</button>
                 </div>
             </div>
 
