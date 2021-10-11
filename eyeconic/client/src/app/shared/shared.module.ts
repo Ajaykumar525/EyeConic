@@ -4,9 +4,10 @@ import {PaginationModule, CarouselModule} from 'ngx-bootstrap';
 import { PagingHeaderComponent } from './components/paging-header/paging-header.component';
 import { PagerComponent } from './components/pager/pager.component';
 import {MatPaginatorModule} from '@angular/material/paginator';
+import { OrderTotalsComponent } from './components/order-totals/order-totals.component';
 
 @NgModule({
-  declarations: [PagingHeaderComponent, PagerComponent],
+  declarations: [PagingHeaderComponent, PagerComponent, OrderTotalsComponent],
   imports: [
     CommonModule,
     MatPaginatorModule,
@@ -18,6 +19,7 @@ import {MatPaginatorModule} from '@angular/material/paginator';
     MatPaginatorModule,
     PagingHeaderComponent,
     PagerComponent,
+    OrderTotalsComponent,
     CarouselModule
   ]
 })
