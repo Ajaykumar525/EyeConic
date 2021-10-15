@@ -1,6 +1,7 @@
 ﻿using API.Errors;
 using Core.Interfaces;
 using Infrastructure.Data;
+using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -14,9 +15,11 @@ namespace API.Extensions
     {
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
-            //how long we need it for->addscoped is used because it's alive for the lifetime of the request
-            //creates when http request comes, when request is finished it disposes controller and repo
-            services.AddScoped<IProductRepository, ProductRepository>();
+      //how long we need it for->addscoped is used because it's alive for the lifetime of the request
+      //creates when http request comes, when request is finished it disposes controller and repo
+      services.AddScoped<ITokenService, TokenService>();
+
+      services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IBasketRepository, BasketRepository>();
             services.Configure<ApiBehaviorOptions>(options =>
             {
