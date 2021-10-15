@@ -83,7 +83,6 @@ C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microso
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -283,3 +282,9 @@ C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft
 C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Nihal\Documents\GitHub\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\Desktop\New folder\EyeConic\eyeconic\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
