@@ -12,7 +12,7 @@
       <i class="fa fa-shopping-cart fa-2x mr-5 text-dark"></i>
       <div *ngIf="(basket$ | async) as basket" class="cart-no">{{basket.items.length}}</div>
     </a>
-    <a  mat-raised-button color="accent" class="btn5 btn-outline-secondary mr-2">Login</a>
-    <a  mat-raised-button color="accent" class="btn6 btn-outline-secondary mr-3">Sign up</a>
+    <a  mat-raised-button routerLink="/account/login" color="accent" class="btn5 btn-outline-secondary mr-2">Login</a>
+    <a  mat-raised-button routerLink="/account/register" color="accent" class="btn6 btn-outline-secondary mr-3">Sign up</a>
   </div>
 </mat-toolbar>
