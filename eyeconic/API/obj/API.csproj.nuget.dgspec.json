@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj": {
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\API\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -48,21 +48,25 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.9, )"
+              "version": "[5.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -91,17 +95,17 @@
         }
       }
     },
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,6 +130,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -145,17 +155,17 @@
         }
       }
     },
-    "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\kenus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -169,8 +179,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj"
+              "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\New folder\\EyeConic\\eyeconic\\Core\\Core.csproj"
               }
             }
           }
@@ -185,13 +195,25 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.9, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.13.1, )"
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.2.50, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.13.1, )"
             }
           },
           "imports": [
