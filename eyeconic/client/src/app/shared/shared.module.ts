@@ -6,9 +6,10 @@ import { PagerComponent } from './components/pager/pager.component';
 import {MatPaginatorModule} from '@angular/material/paginator';
 import { OrderTotalsComponent } from './components/order-totals/order-totals.component';
 import {ReactiveFormsModule } from '@angular/forms';
+import { TextInputComponent } from './components/text-input/text-input.component';
 
 @NgModule({
-  declarations: [PagingHeaderComponent, PagerComponent, OrderTotalsComponent],
+  declarations: [PagingHeaderComponent, PagerComponent, OrderTotalsComponent, TextInputComponent],
   imports: [
     CommonModule,
     MatPaginatorModule,
@@ -25,7 +26,8 @@ import {ReactiveFormsModule } from '@angular/forms';
     OrderTotalsComponent,
     CarouselModule,
     ReactiveFormsModule,
-    BsDropdownModule
+    BsDropdownModule,
+    TextInputComponent
   ]
 })
 export class SharedModule { }
