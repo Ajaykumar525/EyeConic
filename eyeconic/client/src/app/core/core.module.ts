@@ -10,6 +10,7 @@ import {BreadcrumbModule} from 'xng-breadcrumb';
 import { SectionHeaderComponent } from './section-header/section-header.component';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import { MatButtonModule, MatIconModule} from '@angular/material';
+import { SharedModule } from '../shared/shared.module';
 
 @NgModule({
   declarations: [NavBarComponent, TestErrorComponent, NotFoundComponent, ServerErrorComponent, SectionHeaderComponent],
@@ -20,6 +21,7 @@ import { MatButtonModule, MatIconModule} from '@angular/material';
     MatIconModule,
     MatButtonModule,
     BreadcrumbModule,
+    SharedModule,
     ToastrModule.forRoot({
       positionClass: 'toast-bottom-right',
       preventDuplicates: true
