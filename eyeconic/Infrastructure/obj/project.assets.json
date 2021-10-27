@@ -6696,11 +6696,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\kenus\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Nihal\\.nuget\\packages\\": {}
+>>>>>>> 4811444978218225d9231c33358a535057a55595
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
       "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
@@ -6709,6 +6714,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+      "projectName": "Infrastructure",
+      "projectPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Nihal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 4811444978218225d9231c33358a535057a55595
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6722,8 +6737,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj": {
               "projectPath": "C:\\Users\\kenus\\OneDrive\\Desktop\\EyeConic\\eyeconic\\Core\\Core.csproj"
+=======
+            "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Nihal\\Documents\\GitHub\\EyeConic\\eyeconic\\Core\\Core.csproj"
+>>>>>>> 4811444978218225d9231c33358a535057a55595
             }
           }
         }
@@ -6774,7 +6794,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\kenus\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\kenus\\.nuget\\packages"
+=======
+      "C:\\Users\\Nihal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nihal\\.nuget\\packages"
+>>>>>>> 4811444978218225d9231c33358a535057a55595
     ]
   }
 }
