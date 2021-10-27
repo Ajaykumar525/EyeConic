@@ -10,7 +10,7 @@ import { AgmCoreModule } from '@agm/core';
     CommonModule,
     SharedModule,
     AgmCoreModule.forRoot({
-      apiKey: 'AIzaSyDdBpiZzXUFWdQo93XDdjf2hk52qmuJXGM'
+      apiKey: ''
     })
   ],
   exports: [HomeComponent]
